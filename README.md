@@ -5,3 +5,7 @@
 
 作者：苏苏哇哈哈
 链接：https://juejin.cn/post/7182972220405186617
+
+# 效果
+
+![](./images/lanterns.gif)
